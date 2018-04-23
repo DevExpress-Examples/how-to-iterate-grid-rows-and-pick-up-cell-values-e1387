@@ -1,0 +1,12 @@
+﻿<UserControl xmlns:dxg="clr-namespace:DevExpress.AgDataGrid;assembly=DevExpress.AgDataGrid.v8.2"  x:Class="IterateRows.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    Width="400" Height="300">
+    <StackPanel x:Name="LayoutRoot" >
+        <dxg:AgDataGrid x:Name="AgDataGrid1" Height="200">
+            
+        </dxg:AgDataGrid>
+        <Button Content="Enumerate grid rows" Click="BtnGridRows_Click"></Button>
+        <Button Content="Enumerate data rows" Click="BtnDataRows_Click"></Button>
+    </StackPanel>
+</UserControl>
