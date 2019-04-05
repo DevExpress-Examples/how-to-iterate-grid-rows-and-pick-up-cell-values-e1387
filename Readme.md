@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Page.xaml](./CS/IterateRows/Page.xaml) (VB: [Page.xaml](./VB/IterateRows/Page.xaml))
-* [Page.xaml.cs](./CS/IterateRows/Page.xaml.cs) (VB: [Page.xaml](./VB/IterateRows/Page.xaml))
+* [Page.xaml.cs](./CS/IterateRows/Page.xaml.cs) (VB: [Page.xaml.vb](./VB/IterateRows/Page.xaml.vb))
 <!-- default file list end -->
 # How to iterate grid rows and pick up cell values
 
